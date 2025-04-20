@@ -6,6 +6,7 @@ build/
 
 server/
 server/**
+server/**/**
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
