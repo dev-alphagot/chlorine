@@ -8,6 +8,11 @@ server/
 server/**
 server/**/**
 
+.idea/
+gradle/
+gradlew
+gradlew.bat
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
